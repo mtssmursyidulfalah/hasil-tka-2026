@@ -18,57 +18,97 @@ function cekData(){
     return;
   }
 
-  document.body.innerHTML = `
+ document.body.innerHTML = `
 
-  <div class="glow"></div>
-  <div class="glow"></div>
+<div class="glow"></div>
+<div class="glow"></div>
 
-  <div class="card">
+<div class="hasil-card">
+
+  <div class="judul">
 
     <img
     src="logo.png"
     class="logo">
 
-    <h1>
-      HASIL TKA
-    </h1>
+    <h2>
+      HASIL TES KEMAMPUAN AKADEMIK
+      TAHUN 2026
+    </h2>
 
-    <div class="hasil">
-
-      <p>
-      <b>Nama:</b><br>
-      ${data.nama}
-      </p>
-
-      <p>
-      <b>Kelas:</b><br>
-      ${data.kelas}
-      </p>
-
-      <p>
-      <b>No Peserta:</b><br>
-      ${data.peserta}
-      </p>
-
-      <hr>
-
-      <p>
-      <b>Matematika</b><br>
-      Nilai: ${data.matematika}<br>
-      Kriteria:
-      ${data.kriteria_mtk}
-      </p>
-
-      <p>
-      <b>Bahasa Indonesia</b><br>
-      Nilai: ${data.indonesia}<br>
-      Kriteria:
-      ${data.kriteria_indo}
-      </p>
-
-    </div>
+    <p>
+      MTSS MURSYIDUL FALAH
+    </p>
 
   </div>
 
-  `;
+  <div class="identitas">
+
+    NAMA
+    :
+    ${data.nama}
+
+    <br>
+
+    KELAS
+    :
+    ${data.kelas}
+
+    <br>
+
+    NO PESERTA
+    :
+    ${data.peserta}
+
+  </div>
+
+  <table>
+
+    <tr>
+
+      <th colspan="2">
+        MATEMATIKA
+      </th>
+
+      <th colspan="2">
+        BAHASA INDONESIA
+      </th>
+
+    </tr>
+
+    <tr>
+
+      <th>NILAI</th>
+      <th>KRITERIA</th>
+
+      <th>NILAI</th>
+      <th>KRITERIA</th>
+
+    </tr>
+
+    <tr>
+
+      <td>
+        ${data.matematika}
+      </td>
+
+      <td>
+        ${data.kriteria_mtk}
+      </td>
+
+      <td>
+        ${data.indonesia}
+      </td>
+
+      <td>
+        ${data.kriteria_indo}
+      </td>
+
+    </tr>
+
+  </table>
+
+</div>
+
+`;
 }
