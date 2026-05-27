@@ -233,4 +233,21 @@ td{
   color:#64748b;
   font-size:13px;
   }
+
+.fade-result{
+  animation:fadeResult 0.5s ease;
+}
+
+@keyframes fadeResult{
+
+  from{
+    opacity:0;
+    transform:translateY(20px);
+  }
+
+  to{
+    opacity:1;
+    transform:translateY(0);
+  }
+
 }
