@@ -212,15 +212,9 @@ td{
 
 @media(max-width:768px){
 
-  table{
-    display:block;
-    overflow-x:auto;
-    white-space:nowrap;
-  }
-
   th,td{
-    padding:10px;
-    font-size:14px;
+    padding:8px;
+    font-size:12px;
   }
 
 }
