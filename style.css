@@ -9,38 +9,37 @@ body{
   display:flex;
   justify-content:center;
   align-items:center;
-  overflow:hidden;
   padding:20px;
 
   font-family:'Poppins',sans-serif;
 
-  background:
-  linear-gradient(
-    135deg,
-    #0f172a,
-    #1e3a8a,
-    #2563eb
-  );
+  background:#f8fafc;
+
+  overflow:hidden;
 }
 
 .glow{
   position:absolute;
-  width:500px;
-  height:500px;
-  background:#3b82f6;
+  width:400px;
+  height:400px;
+
+  background:#60a5fa;
+
   border-radius:50%;
+
   filter:blur(120px);
-  opacity:0.3;
+
+  opacity:0.15;
 }
 
 .glow:nth-child(1){
-  top:-150px;
-  left:-150px;
+  top:-100px;
+  left:-100px;
 }
 
 .glow:nth-child(2){
-  bottom:-150px;
-  right:-150px;
+  bottom:-100px;
+  right:-100px;
 }
 
 .card{
@@ -52,68 +51,163 @@ body{
 
   padding:40px 30px;
 
-  border-radius:30px;
+  border-radius:28px;
 
-  background:rgba(255,255,255,0.08);
+  background:white;
 
-  border:1px solid rgba(255,255,255,0.2);
-
-  backdrop-filter:blur(20px);
+  box-shadow:
+  0 10px 40px rgba(0,0,0,0.08);
 
   text-align:center;
-
-  color:white;
 }
 
 .logo{
-  width:120px;
+  width:110px;
   margin-bottom:20px;
 }
 
 h1{
   font-size:30px;
   font-weight:700;
+
+  color:#0f172a;
 }
 
 .madrasah{
   margin-top:10px;
+
   font-size:18px;
-  color:#93c5fd;
+
+  color:#2563eb;
+
+  font-weight:600;
 }
 
 input{
   width:100%;
+
   padding:15px;
-  border:none;
-  border-radius:12px;
+
+  border:1px solid #cbd5e1;
+
+  border-radius:14px;
+
   margin-top:30px;
+
   outline:none;
+
   font-size:15px;
 }
 
 button{
   width:100%;
+
   padding:15px;
+
   border:none;
-  border-radius:12px;
+
+  border-radius:14px;
 
   margin-top:20px;
 
-  background:
-  linear-gradient(
-    to right,
-    #2563eb,
-    #3b82f6
-  );
+  background:#2563eb;
 
   color:white;
 
   font-size:16px;
+
   font-weight:600;
 
   cursor:pointer;
+
+  transition:0.3s;
 }
 
 button:hover{
   transform:scale(1.02);
+}
+
+.hasil-card{
+
+  width:100%;
+  max-width:900px;
+
+  background:white;
+
+  border-radius:28px;
+
+  padding:40px;
+
+  box-shadow:
+  0 10px 40px rgba(0,0,0,0.08);
+
+  position:relative;
+  z-index:2;
+}
+
+.judul{
+  text-align:center;
+  margin-bottom:40px;
+}
+
+.judul h2{
+  color:#0f172a;
+  font-size:32px;
+}
+
+.judul p{
+  color:#2563eb;
+  margin-top:10px;
+  font-weight:600;
+}
+
+.identitas{
+  margin-top:20px;
+  line-height:2.2;
+  font-size:22px;
+  font-weight:600;
+  color:#111827;
+}
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:40px;
+}
+
+th,td{
+  border:2px solid #cbd5e1;
+  padding:16px;
+  text-align:center;
+}
+
+th{
+  background:#eff6ff;
+  color:#1e3a8a;
+}
+
+td{
+  font-size:24px;
+  font-weight:700;
+  color:#111827;
+}
+
+@media(max-width:768px){
+
+  .hasil-card{
+    padding:25px;
+  }
+
+  .judul h2{
+    font-size:22px;
+  }
+
+  .identitas{
+    font-size:18px;
+  }
+
+  td{
+    font-size:18px;
+  }
+
 }
