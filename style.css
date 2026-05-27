@@ -169,45 +169,41 @@ button:hover{
   color:#111827;
 }
 
-table{
-  width:100%;
-  border-collapse:collapse;
-  margin-top:40px;
+.result-table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:25px;
+    overflow:hidden;
+    border-radius:16px;
 }
 
-th,td{
-  border:2px solid #cbd5e1;
-  padding:16px;
-  text-align:center;
-}
-
-th{
-  background:#eff6ff;
-  color:#1e3a8a;
-}
-
-td{
-  font-size:24px;
-  font-weight:700;
-  color:#111827;
+.result-table th,
+.result-table td{
+    border:1px solid #dbe2ef;
+    padding:14px 10px;
+    text-align:center;
+    font-size:15px;
 }
 
 @media(max-width:768px){
 
-  .hasil-card{
-    padding:25px;
-  }
+    .card{
+        padding:20px;
+    }
 
-  .judul h2{
-    font-size:22px;
-  }
+    .result-table th,
+    .result-table td{
+        font-size:13px;
+        padding:10px 6px;
+    }
 
-  .identitas{
-    font-size:18px;
-  }
+    .judul{
+        font-size:18px;
+        line-height:1.5;
+    }
 
-  td{
-    font-size:18px;
-  }
+    .info{
+        font-size:15px;
+    }
 
 }
