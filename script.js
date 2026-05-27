@@ -1,114 +1,66 @@
 function cekData(){
 
-  const nisn =
-  document.getElementById(
-    "nisn"
-  ).value.trim();
+    const nisnInput =
+    document.getElementById("nisn").value;
 
-  const data = siswa.find(
-    s => s.nisn === nisn
-  );
+    const hasil =
+    document.getElementById("hasil");
 
-  if(!data){
+    const data =
+    siswa.find(s => s.nisn === nisnInput);
 
-    alert(
-      "Data tidak ditemukan"
-    );
+    if(!data){
 
-    return;
-  }
+        hasil.innerHTML = `
+        <p style="color:red; margin-top:20px;">
+        NISN tidak ditemukan
+        </p>
+        `;
 
- document.body.innerHTML = `
+        return;
+    }
 
-<div class="glow"></div>
-<div class="glow"></div>
+    hasil.innerHTML = `
 
-<div class="hasil-card">
+    <div class="hasil-card">
 
-  <div class="judul">
+        <h2>${data.nama}</h2>
 
-    <img
-    src="logo.png"
-    class="logo">
+        <p>
+        Kelas : ${data.kelas}
+        </p>
 
-    <h2>
-      HASIL TES KEMAMPUAN AKADEMIK
-      TAHUN 2026
-    </h2>
+        <p>
+        No Peserta : ${data.peserta}
+        </p>
 
-    <p>
-      MTSS MURSYIDUL FALAH
-    </p>
+        <div class="table-wrapper">
 
-  </div>
+        <table class="result-table">
 
-  <div class="identitas">
+            <tr>
+                <th>Mata Pelajaran</th>
+                <th>Nilai</th>
+                <th>Kriteria</th>
+            </tr>
 
-    NAMA
-    :
-    ${data.nama}
+            <tr>
+                <td>Matematika</td>
+                <td>${data.matematika}</td>
+                <td>${data.kriteria_mtk}</td>
+            </tr>
 
-    <br>
+            <tr>
+                <td>Bahasa Indonesia</td>
+                <td>${data.indonesia}</td>
+                <td>${data.kriteria_indo}</td>
+            </tr>
 
-    KELAS
-    :
-    ${data.kelas}
+        </table>
 
-    <br>
+        </div>
 
-    NO PESERTA
-    :
-    ${data.peserta}
+    </div>
 
-  </div>
-
-  <table>
-
-    <tr>
-
-      <th colspan="2">
-        MATEMATIKA
-      </th>
-
-      <th colspan="2">
-        BAHASA INDONESIA
-      </th>
-
-    </tr>
-
-    <tr>
-
-      <th>NILAI</th>
-      <th>KRITERIA</th>
-
-      <th>NILAI</th>
-      <th>KRITERIA</th>
-
-    </tr>
-
-    <tr>
-
-      <td>
-        ${data.matematika}
-      </td>
-
-      <td>
-        ${data.kriteria_mtk}
-      </td>
-
-      <td>
-        ${data.indonesia}
-      </td>
-
-      <td>
-        ${data.kriteria_indo}
-      </td>
-
-    </tr>
-
-  </table>
-
-</div>
-
-`;
+    `;
 }
