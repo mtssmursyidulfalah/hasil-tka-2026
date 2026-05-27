@@ -6,16 +6,20 @@
 
 body{
   min-height:100vh;
+
   display:flex;
+  flex-direction:column;
+
   justify-content:center;
   align-items:center;
+
   padding:20px;
 
   font-family:'Poppins',sans-serif;
 
   background:#f8fafc;
 
-  overflow:hidden;
+  overflow-x:hidden;
 }
 
 .glow{
@@ -223,5 +227,10 @@ td{
     text-align:left;
     word-break:break-word;
   }
-
+  .footer{
+  margin-top:20px;
+  text-align:center;
+  color:#64748b;
+  font-size:13px;
+  }
 }
