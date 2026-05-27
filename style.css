@@ -223,16 +223,19 @@ button:hover{
         line-height:1.8;
     }
 
-    .result-table{
-        width:100%;
-        overflow-x:auto;
-        display:block;
-    }
+.result-table{
+    width:100%;
+    border-collapse:collapse;
+    min-width:500px;
+}
 
-    .result-table th,
-    .result-table td{
-        font-size:13px;
-        padding:10px 6px;
-    }
+.result-table th,
+.result-table td{
+    font-size:13px;
+    padding:10px 6px;
+}
 
+.table-wrapper{
+    width:100%;
+    overflow-x:auto;
 }
