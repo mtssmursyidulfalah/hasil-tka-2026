@@ -23,7 +23,7 @@ document.body.innerHTML = `
 <div class="glow"></div>
 <div class="glow"></div>
 
-<div class="hasil-card">
+<div class="hasil-card fade-result">
 
   <div class="judul">
 
