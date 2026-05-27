@@ -17,16 +17,8 @@ function cekData(){
 
     return;
   }
-hasil.style.opacity = "0";
-hasil.style.transform = "translateY(20px)";
+
  document.body.innerHTML = `
- setTimeout(()=>{
-
-    hasil.style.transition = "all 0.5s ease";
-    hasil.style.opacity = "1";
-    hasil.style.transform = "translateY(0)";
-
-},100);
 
 <div class="glow"></div>
 <div class="glow"></div>
