@@ -6,7 +6,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0024-9",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "63.33",
+    indonesia: "63.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -16,7 +16,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0011-6",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -26,7 +26,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0025-8",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "30.00",
+    indonesia: "30.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -36,7 +36,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0007-2",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -46,7 +46,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0018-7",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -56,7 +56,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0003-6",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "76.67",
+    indonesia: "76.67",
     kriteria_indo: "Baik"
   },
   {
@@ -66,7 +66,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0005-4",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -76,7 +76,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0017-8",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "70.00",
+    indonesia: "70.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -86,7 +86,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0019-6",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -96,7 +96,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0012-5",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -106,7 +106,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0009-8",
     matematika: "56.67",
     kriteria_mtk: "Baik",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -116,7 +116,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0021-4",
     matematika: "20.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "10.00",
+    indonesia: "10.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -126,7 +126,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0023-2",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -136,7 +136,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0014-3",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -146,7 +146,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0041-8",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -156,7 +156,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0020-5",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -166,7 +166,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0001-8",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -176,7 +176,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0008-9",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -186,7 +186,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0006-3",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -196,7 +196,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0002-7",
     matematika: "20.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -206,7 +206,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0022-3",
     matematika: "53.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -216,7 +216,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0015-2",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -226,7 +226,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0010-7",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -236,7 +236,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0016-9",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "33.33",
+    indonesia: "33.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -246,7 +246,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0004-5",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -256,7 +256,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0013-4",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -266,7 +266,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0040-9",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -276,7 +276,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0131-6",
     matematika: "56.67",
     kriteria_mtk: "Baik",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -286,7 +286,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0135-2",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -296,7 +296,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0053-4",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -306,7 +306,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0033-8",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -316,7 +316,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0027-6",
     matematika: "50.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "63.33",
+    indonesia: "63.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -326,7 +326,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0043-6",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "63.33",
+    indonesia: "63.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -336,7 +336,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0042-7",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -346,7 +346,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0034-7",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -356,7 +356,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0054-3",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -366,7 +366,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0045-4",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -376,7 +376,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0056-9",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -386,7 +386,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0031-2",
     matematika: "50.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "86.67",
+    indonesia: "86.67",
     kriteria_indo: "Baik"
   },
   {
@@ -396,7 +396,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0029-4",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -406,7 +406,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0047-2",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -416,7 +416,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0028-5",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -426,7 +426,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0032-9",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -436,7 +436,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0026-7",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "76.67",
+    indonesia: "76.67",
     kriteria_indo: "Baik"
   },
   {
@@ -446,7 +446,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0052-5",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -456,7 +456,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0049-8",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -466,7 +466,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0046-3",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -476,7 +476,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0044-5",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -486,7 +486,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0050-7",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -496,7 +496,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0055-2",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -506,7 +506,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0051-6",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -516,7 +516,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0048-9",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -526,7 +526,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0030-3",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -536,7 +536,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0140-5",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -546,7 +546,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0137-8",
     matematika: "50.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -556,7 +556,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0077-4",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -566,7 +566,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0067-6",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -576,7 +576,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0081-8",
     matematika: "56.67",
     kriteria_mtk: "Baik",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -586,7 +586,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0071-2",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "26.67",
+    indonesia: "26.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -596,7 +596,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0062-3",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -606,7 +606,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0066-7",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -616,7 +616,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0073-8",
     matematika: "16.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -626,7 +626,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0069-4",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -636,7 +636,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0078-3",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -646,7 +646,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0058-7",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "33.33",
+    indonesia: "33.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -656,7 +656,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0061-4",
     matematika: "20.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -666,7 +666,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0080-9",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -676,7 +676,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0074-7",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -686,7 +686,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0063-2",
     matematika: "20.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -696,7 +696,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0082-7",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -706,7 +706,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0070-3",
     matematika: "60.00",
     kriteria_mtk: "Baik",
-    Indonesia: "66.67",
+    indonesia: "66.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -716,7 +716,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0064-9",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -726,7 +726,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0065-8",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -736,7 +736,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0079-2",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -746,7 +746,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0060-5",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -756,7 +756,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0068-5",
     matematika: "50.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "33.33",
+    indonesia: "33.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -766,7 +766,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0072-9",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -776,7 +776,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0057-8",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -786,7 +786,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0076-5",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -796,7 +796,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0059-6",
     matematika: "66.67",
     kriteria_mtk: "Baik",
-    Indonesia: "76.67",
+    indonesia: "76.67",
     kriteria_indo: "Baik"
   },
   {
@@ -806,7 +806,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0075-6",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "26.67",
+    indonesia: "26.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -816,7 +816,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0143-2",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "33.33",
+    indonesia: "33.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -826,7 +826,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0147-6",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -836,7 +836,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0134-3",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "70.00",
+    indonesia: "70.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -846,7 +846,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0095-2",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -856,7 +856,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0103-2",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -866,7 +866,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0091-6",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -876,7 +876,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0035-6",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -886,7 +886,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0093-4",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "70.00",
+    indonesia: "70.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -896,7 +896,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0089-8",
     matematika: "50.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -906,7 +906,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0092-5",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "70.00",
+    indonesia: "70.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -916,7 +916,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0085-4",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -926,7 +926,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0101-4",
     matematika: "53.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -936,7 +936,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0098-7",
     matematika: "23.33",
     kriteria_mtk: "Kurang",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -946,7 +946,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0094-3",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -956,7 +956,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0100-5",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "30.00",
+    indonesia: "30.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -966,7 +966,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0090-7",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -976,7 +976,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0084-5",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -986,7 +986,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0086-3",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -996,7 +996,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0104-9",
     matematika: "20.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -1006,7 +1006,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0102-3",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -1016,7 +1016,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0088-9",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "20.00",
+    indonesia: "20.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -1026,7 +1026,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0106-7",
     matematika: "20.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -1036,7 +1036,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0097-8",
     matematika: "20.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "26.67",
+    indonesia: "26.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1046,7 +1046,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0105-8",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1056,7 +1056,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0096-9",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -1066,7 +1066,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0099-6",
     matematika: "53.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "30.00",
+    indonesia: "30.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -1076,7 +1076,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0083-6",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "20.00",
+    indonesia: "20.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -1086,7 +1086,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0107-6",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -1096,7 +1096,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0087-2",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -1106,7 +1106,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0139-6",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1116,7 +1116,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0132-5",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -1126,7 +1126,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0141-4",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "33.33",
+    indonesia: "33.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -1136,7 +1136,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0039-2",
     matematika: "46.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -1146,7 +1146,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0114-7",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -1156,7 +1156,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0122-7",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -1166,7 +1166,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0095-2",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1176,7 +1176,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0116-5",
     matematika: "23.33",
     kriteria_mtk: "Kurang",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1186,7 +1186,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0111-2",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "63.33",
+    indonesia: "63.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -1196,7 +1196,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0112-9",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1206,7 +1206,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0109-4",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -1216,7 +1216,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0115-6",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -1226,7 +1226,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0127-2",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "73.33",
+    indonesia: "73.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -1236,7 +1236,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0129-8",
     matematika: "56.67",
     kriteria_mtk: "Baik",
-    Indonesia: "36.67",
+    indonesia: "36.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1246,7 +1246,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0124-5",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -1256,7 +1256,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0121-8",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -1266,7 +1266,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0110-3",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -1276,7 +1276,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0113-8",
     matematika: "33.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "70.00",
+    indonesia: "70.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -1286,7 +1286,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0038-3",
     matematika: "40.00",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -1296,7 +1296,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0123-6",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1306,7 +1306,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0130-7",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "30.00",
+    indonesia: "30.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -1316,7 +1316,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0037-4",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -1326,7 +1326,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0119-2",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -1336,7 +1336,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0118-3",
     matematika: "23.33",
     kriteria_mtk: "Kurang",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -1346,7 +1346,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0125-4",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1356,7 +1356,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0108-5",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -1366,7 +1366,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0036-5",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -1376,7 +1376,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0128-9",
     matematika: "20.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "53.33",
+    indonesia: "53.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -1386,7 +1386,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0120-9",
     matematika: "23.33",
     kriteria_mtk: "Kurang",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -1396,7 +1396,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0117-4",
     matematika: "16.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "40.00",
+    indonesia: "40.00",
     kriteria_indo: "Kurang"
   },
   {
@@ -1406,7 +1406,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0142-3",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "43.33",
+    indonesia: "43.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -1416,7 +1416,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0146-7",
     matematika: "56.67",
     kriteria_mtk: "Baik",
-    Indonesia: "56.67",
+    indonesia: "56.67",
     kriteria_indo: "Memadai"
   },
   {
@@ -1426,7 +1426,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0145-8",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "46.67",
+    indonesia: "46.67",
     kriteria_indo: "Kurang"
   },
   {
@@ -1436,7 +1436,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0136-9",
     matematika: "26.67",
     kriteria_mtk: "Kurang",
-    Indonesia: "33.33",
+    indonesia: "33.33",
     kriteria_indo: "Kurang"
   },
   {
@@ -1446,7 +1446,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0138-7",
     matematika: "43.33",
     kriteria_mtk: "Memadai",
-    Indonesia: "73.33",
+    indonesia: "73.33",
     kriteria_indo: "Memadai"
   },
   {
@@ -1456,7 +1456,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0144-9",
     matematika: "36.67",
     kriteria_mtk: "Memadai",
-    Indonesia: "50.00",
+    indonesia: "50.00",
     kriteria_indo: "Memadai"
   },
   {
@@ -1466,7 +1466,7 @@ const siswa = [
     peserta: "T2-26-02-19-0514-0133-4",
     matematika: "30.00",
     kriteria_mtk: "Kurang",
-    Indonesia: "60.00",
+    indonesia: "60.00",
     kriteria_indo: "Memadai"
   }
 ]
